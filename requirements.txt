@@ -1,0 +1,8 @@
+accelerate==0.20.3
+datasets==2.12.0
+diffusers==0.16.1
+fast-jl==0.1.3
+torch==2.0.1
+torchvision==0.15.2
+traker==0.1.3
+transformers==4.30.1
