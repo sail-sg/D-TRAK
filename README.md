@@ -10,7 +10,7 @@
 <p align='left' style="text-align:left;font-size:1.2em;">
 <b>
     [<a href="https://sail-sg.github.io/D-TRAK" target="_blank" style="text-decoration: none;">Project Page</a>] |
-    [<a href="" target="_blank" style="text-decoration: none;">arXiv</a>] | 
+    [<a href="https://arxiv.org/abs/2311.00500" target="_blank" style="text-decoration: none;">arXiv</a>] | 
     [<a href="https://drive.google.com/drive/folders/1Ko1CI-nWo3NHWYpxfX2Un1t9UsuddVHX?usp=sharing" target="_blank" style="text-decoration: none;">Data Repository</a>]&nbsp;
 </b>
 </p>
