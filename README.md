@@ -166,8 +166,8 @@ If you find this project useful in your research, please consider citing our pap
 zheng2023intriguing,
 title={Intriguing Properties of Data Attribution on Diffusion Models},
   author={Zheng, Xiaosen and Pang, Tianyu and Du, Chao and Jiang, Jing and Lin, Min},
-booktitle={NeurIPS Workshop on Attributing Model Behavior at Scale},
-year={2023},
+booktitle={International Conference on Learning Representations (ICLR)},
+year={2024},
 }
 
 ```
